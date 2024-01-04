@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de como você pode criar um arquivo README.md para o seu projeto de calculadora simples:
-
-```markdown
 # Calculadora Simples
 
 Esta é uma aplicação de calculadora simples desenvolvida usando React.
